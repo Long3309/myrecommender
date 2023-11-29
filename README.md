@@ -1,6 +1,6 @@
 # myrecommender
 ## Raw data
-Dữ liệu raw của tập dữ liệu MovieLens được lưu trong [folder](data). Tập dữ liệu sử dụng để thực nghiệm là movielens_1M
+Dữ liệu raw của tập dữ liệu MovieLens được lưu trong [folder](data). Tập dữ liệu sử dụng để thực nghiệm là `movielens_1M`
 
 ## Enrich data
 ### Dữ liệu được tiền xử lý theo luồng sau:
