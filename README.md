@@ -17,6 +17,7 @@ Dùng model LightGCN để xây dựng hệ khuyến nghị
 (Giải thích thêm về mô hình)
 
 ## Visualize
+Sử dụng dữ liệu trong Enrich để trực quan. Tham khảo về các cách trực quan, khai thác dữ liệu trên Kaggle về bộ dữ liệu này
 ... (Hình ảnh trực quan)
 
 
